@@ -2,7 +2,7 @@
 
 - 💻 Cursando Técnico em Informática para Internet;
 - 🧑‍🎓 Estudante do Ensino Médio Senac Distrito Criativo;
-- 📬 Contato: seuemail@gmail.com
+- 📬 Contato: mariasschenkel@icloud.com
 
 <p align="left">
   <a href="https://www.instagram.com/mariasschenkel" target="_blank">
