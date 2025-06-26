@@ -1,7 +1,7 @@
-## 👩‍💻 Sobre Mim
+## Sobre Mim
 
 - 💻 Cursando Técnico em Informática para Internet;
-- 🧑‍🎓 Estudante do Ensino Médio Senac Distrito Criativo;
+- 🎓 Estudante do Ensino Médio Senac Distrito Criativo;
 - 📬 Contato: mariasschenkel@icloud.com
 
 <p align="left">
@@ -15,7 +15,7 @@
 
 ---
 
-## 🚀 Tecnologias que já domino ou estou aprendendo:
+## Tecnologias que já domino ou estou aprendendo:
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
